@@ -61,7 +61,7 @@ body
 	height: 100vh;
 	color: #fff;
 	text-transform: uppercase;
-	width: auto;
+	
 
 }
 			/*navbar*/
@@ -73,6 +73,7 @@ body
 	height: auto;
 	font-weight: 200;
 	letter-spacing: 5px;
+	width: auto;
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
 	color: #fff;
