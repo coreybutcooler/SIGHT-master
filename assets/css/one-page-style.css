@@ -1,6 +1,7 @@
 .one-page-nav{
 	padding: 10px 0px;
 	background: #eaeaea;
+	width:auto;
 }
 .one-page-nav .navbar-nav>.active>a, .one-page-nav .navbar-nav>.active>a:focus, .one-page-nav .navbar-nav>.active>a:hover{
     background-color: transparent;
